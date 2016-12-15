@@ -1,0 +1,53 @@
+.course-name-td {
+    padding: 10px;
+    text-align: center;
+}
+
+.course-name {
+    width: 15em;
+    height: 3em;
+    font-weight: bold;
+}
+
+.btn-xlarge-3 {
+    padding: 10em;
+}
+
+.btn-xlarge-4 {
+    padding: 15em;
+    line-height: normal;
+}
+
+.btn-primary {
+    border: 1px solid white;
+}
+
+.btn-primary.btn-javascript {
+    background-color: palevioletred;
+}
+
+.btn-primary.btn-csharp {
+    background-color: limegreen;
+}
+
+.btn-primary.btn-frontend {
+    background-color: rgb(255,85,0);
+}
+
+.btn-primary.btn-mobile {
+    background-color: rgb(251,194,0);
+}
+
+.btn-primary.btn-web {
+    background-color: rgb(147,0,157);
+}
+
+.table.curriculum {
+    width: 50%;
+}
+
+.btn-default.btn-grayout {
+    background-color: lightgray;
+    color: darkslategrey;
+    opacity: 0.5;
+}
